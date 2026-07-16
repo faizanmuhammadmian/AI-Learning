@@ -1,6 +1,0 @@
-Today I learned:
-
-- What Git is
-- What GitHub is
-- What a terminal is
-- Basic terminal commands
